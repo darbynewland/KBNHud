@@ -23,7 +23,7 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"HudCrossHair2"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"zpos"			"1"
 
